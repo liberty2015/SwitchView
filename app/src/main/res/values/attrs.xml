@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchView">
+        <attr name="onImg" format="reference"/>
+        <attr name="offImg" format="reference"/>
+        <attr name="onColor" format="reference|color"/>
+        <attr name="offColor" format="reference|color"/>
+        <attr name="onTxt" format="reference|string"/>
+        <attr name="offTxt" format="reference|string"/>
+    </declare-styleable>
+</resources>
