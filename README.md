@@ -2,7 +2,7 @@
 
 <img src="https://github.com/liberty2015/SwitchView/blob/master/app.gif" width="227px" height="400px" align="center">
 
-1.使用方法：该View可以分为两种状态：on和off
+使用方法：该View可以分为两种状态：on和off
 在布局文件中：<br>
 ```
 <?xml version="1.0" encoding="utf-8"?>
